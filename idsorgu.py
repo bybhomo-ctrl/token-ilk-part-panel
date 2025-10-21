@@ -1,4 +1,4 @@
-# KANEKI1337
+# SNAPELANG
 import os
 import base64
 try:
@@ -10,7 +10,7 @@ init()
 
 banner = (Fore.MAGENTA + """ 
 
- -  KANEKI BABA ID SORGULAMA PANELI  -
+ -  SNAPELANG ID SORGULAMA PANELI  -
 
 
 """ + Fore.LIGHTCYAN_EX)
